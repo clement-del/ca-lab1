@@ -6,7 +6,9 @@ Acquisition de nouvelles données clients
 ========================================
 
 
-Ouvrez un nouvel onglet de votre navigateur sur le site web de demo Luma: https://builder.adobedemo.com/web/delaland-04QF
+Ouvrez un nouvel onglet de votre navigateur sur le site web de demo Luma: https://builder.adobedemo.com/web/delaland-04QF. 
+Utiliser votre identifiant de connexion (exemple cdpbootcamp00@email.com) ainsi que le mot de passe fourni.
+
 
 ## Navigation en tant que visiteur
 
@@ -15,7 +17,7 @@ Ouvrez un nouvel onglet de votre navigateur sur le site web de demo Luma: https:
 
 Parcourez le site, cliquer sur des pages produits (men, women & equipment)
 
-Observez les évènements collectés dans le panel Real Time Customer Profile en cliquant sur le logo Adobe en haut à gauche de l'écran et sur l'onglet **Events**
+Observez les évènements collectés dans le panel Real Time Customer Profile en cliquant sur le logo Adobe en haut à gauche de l'écran et sur l'onglet **Events**. Cliquez sur l'icone de rafraichissement pour mettre à jour la liste. 
 
 ![image](https://user-images.githubusercontent.com/40355195/216580677-491b28d3-fb54-4f91-8ad4-73d760f462dc.png)
 
@@ -40,12 +42,18 @@ Saisissez vos informations pour la création du compte, veillez à utililiser l'
 Cliquez sur le boutin Register
 
 
-![image](https://user-images.githubusercontent.com/40355195/216590806-b68cd9b2-807a-4a6e-bd83-36d7900e6945.png)
+![image](https://user-images.githubusercontent.com/40355195/216641514-60222861-e3ed-47aa-b6ea-7da4a9ad4c4d.png)
+
+
+Quelques secondes plus tard, si vous rafraichissez le panel Real Time Customer Profile, les infos de profil sont mises à jour
+
+![image](https://user-images.githubusercontent.com/40355195/216641864-a4fa1b8b-7e6b-46f7-98e1-40d39d028356.png)
+
 
 
 ## Visualisation du profil dans RTCDP
 
-Dans le panel Real Time Customer Profile, cliquez sur _Utilities_ et _View Profile in AEP _
+Toujours, dans le panel Real Time Customer Profile, cliquez sur _Utilities_ et _View Profile in AEP_
 
 ![image](https://user-images.githubusercontent.com/40355195/216591012-0e43132d-5124-40f4-a31d-6cf46d576f69.png)
 
@@ -64,6 +72,12 @@ Cliquer sur afficher le graph d'identités pour visualiser les identités collec
 
 
 ## Réception de l'email dans la webmail
+
+Connectez vous à la webmail de demo disponible à l'adresse : https://campaignfr.adobedemo.com/webmail/
+
+- Login: demo
+- Mot de passe : <****>
+
 
 ![image](https://user-images.githubusercontent.com/40355195/216592663-965dbd72-841a-4683-97a7-12988e7075c1.png)
 
