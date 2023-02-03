@@ -9,14 +9,15 @@ Adobe Campaign s'utilise conjointement avec Adobe Real Time Customer Data Platfo
 - Appliquer des règles de gouvernance de la donnée et vous assurer que les données de vos utilisateurs soit uniquement utilisées à bon escient, et éviter tout risque de partage malencontreux vers un tiers, ou une utilisateur de la donnée client qui n'a pas été consentie par votre contact. 
 
 
-Au cours de ce lab, nous allons utiliser une marque fictive d'équipement sportif - intitulée Luma - pour illustrer ces fonctionnalités au travers d'un parcous client composé de 3 chapitres: 
-
-1: L'acquisition de nouvelles données clients depuis le site web Luma. Grace a la collecte en temps réel, nous allons récolter les interactions des visiteurs, même anonymes, et personnaliser le site web en temps réel en fonction de leurs comportements de navigation. Lorsque un utilisateur crééra son compte, son comportement en tant que visiteur anonyme sera automatiquement rattaché à son profil connu et complétera la vision 360° dans RTCDP et dans Adobe Campaign. 
-2: La conversion et l'abandon de panier. En exploitant le moteur d'orchestration, nous allons pouvoir définir des messages personalisés à chacune des étapes du process de paiement en ligne. De l'ajout de produit dans un panier, à la finalisation du paiment, nous pouvons interagir à travers des communication personalisés avec nos futurs clients, et également les recibler si ils ne terminent pas le processus d'achat. Pour le routage des messages, faisons confiance à Adobe Campaign !
-3: Le cross sell. Exploitons les capacités d'intelligence artificielle de la RTCDP pour calculer une audience qui sera la plus à même d'acheter un accessoire de sport extérieur au cours des 3 prochaines semaines en nous basant sur l'analyse des données comportementales de nos précèdents clients. Partageons ensuite cette audience à Snapchat et vers Adobe Campaign et peaufiner notre ciblage (règles de pression, gestion de la deliverabilité...) 
 
 
-des parcours clients complètement individualisé orchestrés en temps réel. Grâce au moteur d'orchestration 1:1 vous allez pouvoir réagir à des évènements directement générés par vos utilisateurs. Par exemple, lorsqu'un prospect ou client interagit avec votre le site web ou l'application mobile de votre marque  (ouverture d'un push, visualisation d'une page produit, contact avec un chatbot..), vous allez pouvoir capter cette interaction et définir un parcours client compsé d'activité, d'autres évènements, de messages et de branches pour définir quelle va etre le meilleur contenu à lui proposer au meilleur moment. 
+Au cours de ce lab, nous allons utiliser une marque fictive d'équipement sportif - intitulée **Luma** - pour illustrer ces fonctionnalités au travers d'un parcous client composé de 3 chapitres: 
+
+- **L'acquisition de nouvelles données clients** depuis le site web Luma. Grace a la collecte en temps réel, nous allons récolter les interactions des visiteurs, même anonymes, et personnaliser le site web en temps réel en fonction de leurs comportements de navigation. Lorsque un utilisateur crééra son compte, son comportement en tant que visiteur anonyme sera automatiquement rattaché à son profil connu et complétera la vision 360° dans RTCDP et dans Adobe Campaign. 
+
+- **La conversion et l'abandon de panier**. En exploitant le moteur d'orchestration, nous allons pouvoir définir des messages personalisés à chacune des étapes du process de paiement en ligne. De l'ajout de produit dans un panier, à la finalisation du paiment, nous pouvons interagir à travers des communication personalisés avec nos futurs clients, et également les recibler si ils ne terminent pas le processus d'achat. Pour le routage des messages, faisons confiance à Adobe Campaign !
+
+- **Le cross sell**. Exploitons les capacités d'intelligence artificielle de la RTCDP pour calculer une audience qui sera la plus à même d'acheter un accessoire de sport extérieur au cours des 3 prochaines semaines en nous basant sur l'analyse des données comportementales de nos précèdents clients. Partageons ensuite cette audience à Snapchat et vers Adobe Campaign et peaufiner notre ciblage (règles de pression, gestion de la deliverabilité...) 
 
 
 ## Objectifs d'apprentissages
