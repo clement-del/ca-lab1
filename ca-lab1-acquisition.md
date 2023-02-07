@@ -42,7 +42,8 @@ Saisissez vos informations pour la création du compte, veillez à utililiser l'
 Cliquez sur le boutin Register
 
 
-![image](https://user-images.githubusercontent.com/40355195/217297688-fbd46982-bbbf-4fa3-bb7e-a49f5031a60b.png)
+![image](https://user-images.githubusercontent.com/40355195/217300664-d9131aca-5617-438f-b601-38fbfd16b12a.png)
+
 
 
 
