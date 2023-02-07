@@ -42,12 +42,14 @@ Saisissez vos informations pour la création du compte, veillez à utililiser l'
 Cliquez sur le boutin Register
 
 
-![image](https://user-images.githubusercontent.com/40355195/216641514-60222861-e3ed-47aa-b6ea-7da4a9ad4c4d.png)
+![image](https://user-images.githubusercontent.com/40355195/217297688-fbd46982-bbbf-4fa3-bb7e-a49f5031a60b.png)
+
 
 
 Quelques secondes plus tard, si vous rafraichissez le panel Real Time Customer Profile, les infos de profil sont mises à jour
 
-![image](https://user-images.githubusercontent.com/40355195/216641864-a4fa1b8b-7e6b-46f7-98e1-40d39d028356.png)
+![image](https://user-images.githubusercontent.com/40355195/217298747-9858ea07-eebe-4774-ba19-e14b3ca837bc.png)
+
 
 
 
@@ -64,7 +66,8 @@ Le fiche profil s'ouvre dans un nouvel onglet, observez :
 - les segments associés à notre contact dans l'onglet _Appartenance à un segment_
 
 
-![image](https://user-images.githubusercontent.com/40355195/216591877-bedf7db5-040f-4740-a0c4-e0cd495b4d94.png)
+![image](https://user-images.githubusercontent.com/40355195/217299524-7164c022-64b1-45cb-b6ab-96f9a52199cf.png)
+
 
 Cliquer sur afficher le graph d'identités pour visualiser les identités collectés et assignés au profil temps réel à travers le temps
 
@@ -75,7 +78,7 @@ Cliquer sur afficher le graph d'identités pour visualiser les identités collec
 
 Connectez vous à la webmail de demo disponible à l'adresse : https://campaignfr.adobedemo.com/webmail/
 
-- Login: demo
+- Login: <***>
 - Mot de passe : <****>
 
 
