@@ -80,6 +80,19 @@ Cliquez sur _Suivant_, puis sur _Terminer_
 
 ## Activer votre segment vers Snapchat
 
+- Cliquer sur le bouton _Activer vers la destination_ et sélectionnez _Snapchat - test, cliquez sur Suivant
+- Cochez la case _Appliquez la transformation_ à côté du champ cible Identity:emailAdress
+- Nous allons transférer vers Snapchat une audience composé d'un identifiant client. Ce peut être un numéro de téléphone, un identifiant publicitiare Google ou Apple ou bien un email. Dans tous les cas Snapchat, comme la plupart des réseaux sociaux accepte uniquement les données encryptées. Nous allons utlisé un email encrypté comme identifiant de client à partager à Snapchat. Sélectionner le champ suivant
+  * xdm: personalEmail.address - Cochez la case _Appliquez la transformation_ pour envoyer le hash de l'email
+
+Cliquez sur _Suivant_, puis sur _Terminer_ pour valider la destination. 
+
+
+
+
+Notre segment enrichie à l'intelligence artificelle **Propension ++ Sport Ext** a été partagé en quelques clics à l'outil de Marketing Automation ainsi qu'à un réseau social ! 
+
+![snapchat](https://user-images.githubusercontent.com/40355195/217572903-fd40e3c6-a559-4e06-9edc-7a7c71d016a9.gif)
 
 
 Bravo ! Vous avez complété le troisième chapitre du lab :+1: :sparkles: :tada: :rocket: :metal:, vous pouvez aller chercher votre goodie 😛 ou retourner à [l'accueil](Readme.md)
