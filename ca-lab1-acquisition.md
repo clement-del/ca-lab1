@@ -29,7 +29,7 @@ Si jamais vous avez visité 3 pages produits de la même catégorie (men ou wome
 
 Ce segment calculé en temps réel à partir des données collectés est utilisé pour personnaliser la bannière du site web
 
-![image](https://user-images.githubusercontent.com/40355195/216589193-2ca1e9ee-adae-4f9a-9b29-24857db60551.png)
+![image](https://user-images.githubusercontent.com/40355195/217661580-2993dad5-4107-45dd-aa40-304b62096f2e.png)
 
 
 ## Création d'un compte
