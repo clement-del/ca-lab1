@@ -60,10 +60,22 @@ Dans notre cas, nous ciblons uniquement les profils avec un score élevé n'ayan
 ![segmentation](https://user-images.githubusercontent.com/40355195/217507906-1a1f2394-b80d-4967-a36d-fc586ad833d4.gif)
 
 
+Nous allons maintenant pouvoir activer le segment à travers le catalog des destinations de la RTCDP. Pour ce lab nous choisirons Adobe Campaign et Snapchat. 
 
 
 ## Activer votre segment vers Adobe Campaign
 
+- Cliquer sur le bouton _Activer vers la destination_ et sélectionnez _Adobe Campaign_, cliquez sur Suivant
+- Cliquer sur _Créer un planning_, laissez les options par défaut sauf pour la date de fin qui doit être marquée pour  le 17/02. Cliquez sur _Créer_ puis sur _Suivant_
+- Nous allons transférer vers Adobe Campaign les champs suivants : 
+  * xdm: person.name.firstName
+  * xdm: person.name.lastName
+  * \_demosystem4.CustomerAI.Propensitytobuyoutdoorgears.probability
+  * xdm: personalEmail.address (clé obligatoire et de déduplication)
+  
+Cliquez sur _Suivant_, puis sur _Terminer_
+
+![campaignActivation](https://user-images.githubusercontent.com/40355195/217518424-e3a5c9f9-7561-42ea-9944-51a7a2d961d0.gif)
 
 
 ## Activer votre segment vers Snapchat
