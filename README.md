@@ -29,11 +29,13 @@ Au cours de ce lab, nous allons utiliser une marque fictive d'équipement sporti
 
 
 ## Prérequis
+- Un navigateur web avec les onglets suivants ouverts en mode incognito, ceci afin de ne pas mélanger l'identifiant de connexion Adobe utilisé pour le lab avec celui de votre entreprise. 
+ * Accès à [RTCDP](https://experience.adobe.com/#/@demosystem4/sname:emea-france-sc/platform/home) - Si lors de la connexion on vous demande un numéro de téléphone, veuillez clicker sur _Not Now_.
+ * Accès au [site web de demo]([url](https://builder.adobedemo.com/web/delaland-04QF/home)) - Si l'on vous demande de vous logger, utilisez les identifiants que l'onn vous a remis.
+ * Accès à la [webmail de demo](https://campaignfr.adobedemo.com/webmail) - Utiliser le login et mot de passe fourni.
 
-- Accès à [RTCDP](https://experience.adobe.com/#/@demosystem4/sname:emea-france-sc/platform/home)
-- Accès à la [webmail de demo](https://campaignfr.adobedemo.com/webmail)
 
-Les login & mots de passe vous seront communiqués sur place. 
+**Les login & mots de passe vous seront communiqués sur place. **
 
 
 ## Exercices
@@ -45,9 +47,6 @@ Les login & mots de passe vous seront communiqués sur place.
 [Cross Sell](./ca-lab1-cross-sell.md): Créer une audience enrichie et l'activer au travers le catalogue de destinations.
 
 
-## Architecture en place
-
-Les diagrammes ci-dessous mettent en évidence les composants utilisés pour accomplir les trois chapitres.
 
 
 
