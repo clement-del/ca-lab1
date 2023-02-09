@@ -47,9 +47,10 @@ Vous voici dans l'interface de création des segments où vous allez pouvoir mix
 Dans notre cas, nous ciblons uniquement les profils avec un score élevé n'ayant pas cliqués sur un email dont le nom de diffusion contient _outdoor gears_ au cours des 2 dernières semaines. 
 
 - Donnez le nom suivant à votre segment : [identifiantParticipant] - Propension ++ Sport Ext, par exemple _participant01 - Propension ++ Sport Ext_
-- Ajoutez une desctiption : Audience ayant une haute propension à l'achat d'articles de sports d'exterieurs sans click sur campagne email.
+- Ajoutez une description : Audience ayant une haute propension à l'achat d'articles de sports d'exterieurs sans click sur campagne email.
 - Aller sur l'onglet Evènements, filtrer les évènements en saisissant _email opened_ dans le champ texte.
 - Glissez-déposez l'évènement Email Opened dans l'interface de segmentation
+- Cliquer sur l'évènement pour faire apparaitre les options avancées d'inclusion/exclusion
 - Changez _Inclure_ par _Exclure_ dans le container _Règle d'évènement_
 - Dans les variables de l'évènement Email Opened, saisissez _delivery name_ pour filtrer la liste disponible.
 - Glissez-déposez la variable _Delivery Name_ dans la règle d'évènement et saisissez _outdoor gears_ comme valeur de comparaison
@@ -60,7 +61,7 @@ Dans notre cas, nous ciblons uniquement les profils avec un score élevé n'ayan
 ![segmentation](https://user-images.githubusercontent.com/40355195/217507906-1a1f2394-b80d-4967-a36d-fc586ad833d4.gif)
 
 
-Nous allons maintenant pouvoir activer le segment à travers le catalog des destinations de la RTCDP. Pour ce lab nous choisirons Adobe Campaign et Snapchat. 
+Nous allons maintenant pouvoir activer le segment à travers le catalogue des destinations de la RTCDP. Pour ce lab nous choisirons Adobe Campaign et Snapchat. 
 
 ---
 
@@ -78,12 +79,16 @@ Cliquez sur _Suivant_, puis sur _Terminer_
 
 ![campaignActivation](https://user-images.githubusercontent.com/40355195/217518424-e3a5c9f9-7561-42ea-9944-51a7a2d961d0.gif)
 
+Une fois la destination activé le segment va transiter sous forme de fichier vers Adobe Campaign qui va l'ingérer via un workflow de data management.
+
+
 ---
 
 ## Activer votre segment vers Snapchat
 
-Nous allons maintenant activé notre audience à travers Snapchat en temps réel. Dès qu'un utilisateur qualifiera pour notre segment, son email hashé sera envoyé en mode streaming vers le réseau social pour du retargeting
+Nous allons maintenant activer notre audience à travers Snapchat en temps réel. Dès qu'un utilisateur qualifiera pour notre segment, son email hashé sera envoyé en  streaming vers le réseau social pour améliorer nos capacité de ciblage multicanales.
 
+- Retournez sur votre segment en cliquant sur l'onglet _Parcourir_ du menu _Segment_.
 - Cliquer sur le bouton _Activer vers la destination_ et sélectionnez _Snapchat - test, cliquez sur Suivant
 - Cochez la case _Appliquez la transformation_ à côté du champ cible Identity:emailAdress
 - Nous allons transférer vers Snapchat une audience composé d'un identifiant client. Ce peut être un numéro de téléphone, un identifiant publicitiare Google ou Apple ou bien un email. Dans tous les cas Snapchat, comme la plupart des réseaux sociaux accepte uniquement les données encryptées. Nous allons utlisé un email encrypté comme identifiant de client à partager à Snapchat. Sélectionner le champ suivant
