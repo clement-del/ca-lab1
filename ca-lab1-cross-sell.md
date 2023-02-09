@@ -32,7 +32,7 @@ Le dahboard vous permet d'analyser la répartition de la population analysée en
 Le dashboard présente également les facteurs d'influences qui ont le plus contribués à la décision dans chaque cluster. Les facteurs d'influences sont eux préconfigurés dans la modèle. 
 Cliquez sur  le bouton _Créér le segment_ dans la carte propension élevée pour basculer dans l'éditeur de segment et ainsi créér votre audience. 
 
-
+---
 
 ## Créér un segment pour les clients interessés par les équipements d'exterieurs
 
@@ -62,6 +62,7 @@ Dans notre cas, nous ciblons uniquement les profils avec un score élevé n'ayan
 
 Nous allons maintenant pouvoir activer le segment à travers le catalog des destinations de la RTCDP. Pour ce lab nous choisirons Adobe Campaign et Snapchat. 
 
+---
 
 ## Activer votre segment vers Adobe Campaign
 
@@ -77,8 +78,11 @@ Cliquez sur _Suivant_, puis sur _Terminer_
 
 ![campaignActivation](https://user-images.githubusercontent.com/40355195/217518424-e3a5c9f9-7561-42ea-9944-51a7a2d961d0.gif)
 
+---
 
 ## Activer votre segment vers Snapchat
+
+Nous allons maintenant activé notre audience à travers Snapchat en temps réel. Dès qu'un utilisateur qualifiera pour notre segment, son email hashé sera envoyé en mode streaming vers le réseau social pour du retargeting
 
 - Cliquer sur le bouton _Activer vers la destination_ et sélectionnez _Snapchat - test, cliquez sur Suivant
 - Cochez la case _Appliquez la transformation_ à côté du champ cible Identity:emailAdress
@@ -87,12 +91,29 @@ Cliquez sur _Suivant_, puis sur _Terminer_
 
 Cliquez sur _Suivant_, puis sur _Terminer_ pour valider la destination. 
 
+![snapchat](https://user-images.githubusercontent.com/40355195/217572903-fd40e3c6-a559-4e06-9edc-7a7c71d016a9.gif)
+
+
+L'audience est partagé en temps réel vers Snapchat, et est visible dans l'interface d'administration Snapchat
+
+![image](https://user-images.githubusercontent.com/40355195/217883972-32857e01-9c6b-4322-ac3e-b2dba44ad1a7.png)
 
 
 
 Notre segment enrichie à l'intelligence artificelle **Propension ++ Sport Ext** a été partagé en quelques clics à l'outil de Marketing Automation ainsi qu'à un réseau social ! 
+Partagez vos audiences est facilement réalisable en quelques clics vers toutes les destnations disponible dans le catalogue. Ces plateformes de destination incluent des solutions Adobe, des plateformes publicitaires, d’enquête et de marketing par e-mail, des extensions Experience Platform, et bien plus encore.
 
-![snapchat](https://user-images.githubusercontent.com/40355195/217572903-fd40e3c6-a559-4e06-9edc-7a7c71d016a9.gif)
+--- 
+
+Bravo ! Vous avez terminé le lab :+1: :sparkles: :tada: :rocket: :metal: Ensemble nous avons pu  : 
+- Améliorer notre connaissance client en collectant  de la donnée visiteur sur notre site web
+- Batir une fiche client avec des données comportementales et des données personnelles. 
+- Améliorer le revenu en reciblant les abandonnistes au travers de parcours client personnalisés.
+- Faire du cross-sell en partageant des audiences boosté à l'intelligennce artificielle vers les outils de Marketing Automation et les réseaux sociaux
 
 
-Bravo ! Vous avez complété le troisième chapitre du lab :+1: :sparkles: :tada: :rocket: :metal:, vous pouvez aller chercher votre goodie 😛 ou retourner à [l'accueil](Readme.md)
+Tout ça en 1h30 👏 👏 👏 Ca mérite bien un petit goodie pour tous ces efforts 😛 
+
+
+
+[Accueil](README.md)
