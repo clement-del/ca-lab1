@@ -31,6 +31,7 @@ Ce segment calculé en temps réel à partir des données collectés est utilis�
 
 ![image](https://user-images.githubusercontent.com/40355195/217661580-2993dad5-4107-45dd-aa40-304b62096f2e.png)
 
+---
 
 ## Création d'un compte
 
@@ -51,8 +52,7 @@ Quelques secondes plus tard, si vous rafraichissez le panel Real Time Customer P
 
 ![image](https://user-images.githubusercontent.com/40355195/217298747-9858ea07-eebe-4774-ba19-e14b3ca837bc.png)
 
-
-
+---
 
 ## Visualisation du profil dans RTCDP
 
@@ -74,18 +74,16 @@ Cliquer sur afficher le graph d'identités pour visualiser les identités collec
 
 ![image](https://user-images.githubusercontent.com/40355195/216592295-d7f647b8-e55d-49f5-8d9b-8e64baaf358b.png)
 
+---
 
 ## Réception de l'email dans la webmail
 
-Connectez vous à la webmail de demo disponible à l'adresse : https://campaignfr.adobedemo.com/webmail/
-
-- Login: <***>
-- Mot de passe : <****>
+Connectez vous à la webmail de demo avec les identifiants transmis.
 
 
 ![image](https://user-images.githubusercontent.com/40355195/216592663-965dbd72-841a-4683-97a7-12988e7075c1.png)
 
 
-Bravo ! Vous avez complété le premier chapitre du lab :+1: :sparkles: , rendez-vous sur à la [prochaine étape](ca-lab1-conversion.md) ou retournez à [l'accueil](Readme.md)
+Bravo ! Vous avez complété le premier chapitre du lab :+1: :sparkles: , rendez-vous sur à la [prochaine étape](ca-lab1-conversion.md) ou retournez à [l'accueil](README.md)
 
 
