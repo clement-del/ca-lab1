@@ -1,4 +1,4 @@
-[accueil](README.md)
+[Accueil](README.md)
 
 
 
@@ -14,6 +14,7 @@ L'objectif de notre parcours client est double :
 - Envoyer un message de confirmation aux utilisateurs qui ont confirmé leurs commandes.
 
 
+--- 
 
 ## L'interface de Profile Orchestration
 
@@ -25,6 +26,7 @@ Cliquez sur les 9 points en haut à droite de l'interface et sur le lien _Journe
 Vous êtes maintenant dans le moteur d'orchestration de la RTCDP. 
 Nous pouvons accéder au parcours directement depuis la page d'accueil ou alors en cliquant sur le lien _Parcours_ situé dans le menu de gauche.
 
+---
 
 ## Le canevas de Parcours
 Le canevas de parcours client est le point central de création d'expérience client en temps réel. L'interface vous permet de drag & drop 3 types d'activités : 
@@ -42,6 +44,8 @@ Un deuxième évènement intitulé _LumaPurchaseEvent_ est lui déclenché lorsq
 
 On va également pouvoir tirer profit de la non réception d'un évènement pour recibler nos contact qui sont entrés dans le parcours avec une communication appropriée. En effet le chemin inférieur de l'évènement _LumaPurchaseEvent_ se déclenchera automatiquement au bout d'une période d'inactivité donnée (configurée ici à 20 secondes pour ce lab), permettant de router nos clients vers un chemin alternatif. 
 
+---
+
 ## La personalisation de messages avec Adobe Campaign 
 
 Afin de réengager nos clients qui n'ont pas terminé le process d'achat, nous allons utiliser une activité d'action. Celle-ci va nous permettre de communiquer instantanément avec la brique transactionnelle d'Adobe Campaign pour envoyer un message invitant le client à retourner sur le site web.
@@ -54,6 +58,7 @@ Afin de réengager nos clients qui n'ont pas terminé le process d'achat, nous a
 
 ![Conversion01](https://user-images.githubusercontent.com/40355195/216963232-a9fcb13a-65bf-4fd6-b9d6-973322b0987a.gif)
 
+--- 
 
 ## Tester votre parcours
 Il est maintenant temps de tester votre parcours ! 
