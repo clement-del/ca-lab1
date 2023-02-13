@@ -72,4 +72,4 @@ en haut à droite de l'interface. cliquez sur le bouton _Checkout_ puis _Proceed
 
 
 
-Bravo ! Vous avez complété le deuxième chapitre du lab :+1: :sparkles: :tada:, rendez-vous sur à la [prochaine étape](ca-lab1-cross-sell.md) ou retournez à [l'accueil](Readme.md)
+Bravo ! Vous avez complété le deuxième chapitre du lab 👍 ✨ 🎉, rendez-vous sur à la [prochaine étape](ca-lab1-cross-sell.md) ou retournez à [l'accueil](Readme.md)
