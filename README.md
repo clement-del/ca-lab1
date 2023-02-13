@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/40355195/218433960-efb1147f-d81f-4a8a-80a4-a28451960311.png" />
+</p>
+
 # Lab 1 - Création d'un parcours avec Adobe Campaign augmenté
 
 Adobe Campaign s'utilise conjointement avec Adobe Real Time Customer Data Platform (RTCDP) pour enrichir l'expérience client avec un ensemble de fonctionnalités additionnelles. Vous allez ainsi pouvoir exploiter :
@@ -9,7 +13,7 @@ Adobe Campaign s'utilise conjointement avec Adobe Real Time Customer Data Platfo
 - Appliquer des règles de gouvernance de la donnée et vous assurer que les données de vos utilisateurs soit uniquement utilisées à bon escient, et éviter tout risque de partage malencontreux vers un tiers, ou une utilisateur de la donnée client qui n'a pas été consentie par votre contact. 
 
 
-
+---
 
 Au cours de ce lab, nous allons utiliser une marque fictive d'équipement sportif - intitulée **Luma** - pour illustrer ces fonctionnalités au travers d'un parcous client composé de 3 chapitres: 
 
@@ -31,11 +35,11 @@ Au cours de ce lab, nous allons utiliser une marque fictive d'équipement sporti
 ## Prérequis
 - Un navigateur web avec les onglets suivants ouverts en mode incognito, ceci afin de ne pas mélanger l'identifiant de connexion Adobe utilisé pour le lab avec celui de votre entreprise. 
  * Accès à [RTCDP](https://experience.adobe.com/#/@demosystem4/sname:emea-france-sc/platform/home) - Si lors de la connexion on vous demande un numéro de téléphone, veuillez clicker sur _Not Now_.
- * Accès au [site web de demo]([url](https://builder.adobedemo.com/web/delaland-04QF/home)) - Si l'on vous demande de vous logger, utilisez les identifiants que l'onn vous a remis.
+ * Accès au [site web de demo](https://builder.adobedemo.com/web/delaland-04QF/home) - Si l'on vous demande de vous logger, utilisez les identifiants que l'onn vous a remis.
  * Accès à la [webmail de demo](https://campaignfr.adobedemo.com/webmail) - Utiliser le login et mot de passe fourni.
 
 
-**Les login & mots de passe vous seront communiqués sur place. **
+**Les logins & mots de passe vous seront communiqués sur place.**
 
 
 ## Exercices
