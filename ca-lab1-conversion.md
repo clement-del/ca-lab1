@@ -52,7 +52,7 @@ Afin de réengager nos clients qui n'ont pas terminé le process d'achat, nous a
 
 - Selectioner l'activité _CampaignCartAbandonment_ dans le menu Activités
 - Glissez Dépossez la dans le chemin inférieur du parcours client pour qu'elle soit relié à l'évènement précèdent
-- Dans le champ _Email_, cliquer sur le crayon puis sélectionner _ LumaCheckoutEvent -> demosystem4 -> identification -> core -> Email_ puis cliquez sur _OK_
+- Dans le champ _Email_, cliquer sur le crayon puis sélectionner _LumaCheckoutEvent -> demosystem4 -> identification -> core -> Email_ puis cliquez sur _OK_
 - Dans le champ _Name_, cliquer sur le crayon puis taper _first_ pour filtrer les attributs et sélectionner le premier attribut _firstName_ puis cliquez sur _OK_
 - Reliez l'event _LumaPurchaseEvent1_ à la transition de l'activité _CampaignCartAbandonment_
 
