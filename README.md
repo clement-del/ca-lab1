@@ -32,13 +32,9 @@ Au cours de ce lab, nous allons utiliser une marque fictive d'équipement sporti
 
 
 ## Prérequis
-- Un navigateur web avec les onglets suivants ouverts en mode incognito, ceci afin de ne pas mélanger l'identifiant de connexion Adobe utilisé pour le lab avec celui de votre entreprise. 
- * Accès à [Adobe Experience Platform](https://experience.adobe.com/#/@demosystem4/sname:emea-france-sc/platform/home) - Si lors de la connexion on vous demande un numéro de téléphone, veuillez clicker sur _Not Now_.
- * Accès au [site web de demo](https://builder.adobedemo.com/web/delaland-04QF/home) - Si l'on vous demande de vous logger, utilisez les identifiants que l'onn vous a remis.
- * Accès à la [webmail de demo](https://campaignfr.adobedemo.com/webmail) - Utiliser le login et mot de passe fourni.
+- Un navigateur web **ouvert en mode incognito**, ceci afin de ne pas mélanger l'identifiant de connexion Adobe utilisé pour le lab avec celui de votre entreprise. 
+- Les logins et mots de passe pour vous connecter à l'environnement de demo.
 
-
-**Les logins & mots de passe vous seront communiqués sur place.**
 
 
 ## Exercices
