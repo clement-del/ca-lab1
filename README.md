@@ -2,6 +2,16 @@
 <img src="https://user-images.githubusercontent.com/40355195/218433960-efb1147f-d81f-4a8a-80a4-a28451960311.png" />
 </p>
 
+
+<div>
+<br /><br />
+<h1 align="center">Lien vers le lab: https://bit.ly/3YqDIJX</h1>
+<br /><br />
+</div>
+
+
+
+
 # Lab 1 - Création d'un parcours avec Adobe Campaign augmenté
 
 Adobe Campaign s'utilise conjointement avec Adobe Experience Platform (AEP) pour enrichir l'expérience client avec un ensemble de fonctionnalités additionnelles. Vous allez ainsi pouvoir exploiter :
