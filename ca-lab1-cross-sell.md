@@ -79,7 +79,9 @@ Cliquez sur _Suivant_, puis sur _Terminer_
 
 ![campaignActivation](https://user-images.githubusercontent.com/40355195/217518424-e3a5c9f9-7561-42ea-9944-51a7a2d961d0.gif)
 
-Une fois la destination activé le segment va transiter sous forme de fichier vers Adobe Campaign qui va l'ingérer via un workflow de data management.
+Une fois la destination activé le segment va transiter sous forme de fichier vers Adobe Campaign qui va l'ingérer via un workflow de data management pour en créér une liste ou mettre à jour la table des profils si nécessaire.
+
+![Campaign](https://user-images.githubusercontent.com/40355195/218585830-1fe7e50e-f8a2-4f1f-a355-0d214d66dc09.gif)
 
 
 ---
