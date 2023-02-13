@@ -4,7 +4,7 @@
 
 # Lab 1 - Création d'un parcours avec Adobe Campaign augmenté
 
-Adobe Campaign s'utilise conjointement avec Adobe Real Time Customer Data Platform (RTCDP) pour enrichir l'expérience client avec un ensemble de fonctionnalités additionnelles. Vous allez ainsi pouvoir exploiter :
+Adobe Campaign s'utilise conjointement avec Adobe Experience Platform (AEP) pour enrichir l'expérience client avec un ensemble de fonctionnalités additionnelles. Vous allez ainsi pouvoir exploiter :
 
 - La collecte de données  en temps réel, au plus proche des utilisateurs et les segmenter à la volée en fonction de leurs comportements online, très utile pour personaliser le contenus sur les propriétés digitales en fonction de leur appétences.
 - Un  orchestrateur de parcours client pour réagir en temps réel à des évènements générés par vos utilisateurs, et déterminer le meilleur itinéraire pour vos contacts. 
@@ -17,24 +17,23 @@ Adobe Campaign s'utilise conjointement avec Adobe Real Time Customer Data Platfo
 
 Au cours de ce lab, nous allons utiliser une marque fictive d'équipement sportif - intitulée **Luma** - pour illustrer ces fonctionnalités au travers d'un parcous client composé de 3 chapitres: 
 
-- **L'acquisition de nouvelles données clients** depuis le site web Luma. Grace a la collecte en temps réel, nous allons récolter les interactions des visiteurs, même anonymes, et personnaliser le site web en temps réel en fonction de leurs comportements de navigation. Lorsque un utilisateur crééra son compte, son comportement en tant que visiteur anonyme sera automatiquement rattaché à son profil connu et complétera la vision 360° dans RTCDP et dans Adobe Campaign. 
+- **L'acquisition de nouvelles données clients** depuis le site web Luma. Grace a la collecte en temps réel, nous allons récolter les interactions des visiteurs, même anonymes, et personnaliser le site web en temps réel en fonction de leurs comportements de navigation. Lorsque un utilisateur crééra son compte, son comportement en tant que visiteur anonyme sera automatiquement rattaché à son profil connu et complétera la vision 360° dans Adobe Experience Platform et dans Adobe Campaign. 
 
 - **La conversion et l'abandon de panier**. En exploitant le moteur d'orchestration, nous allons pouvoir définir des messages personalisés à chacune des étapes du process de paiement en ligne. De l'ajout de produit dans un panier, à la finalisation du paiment, nous pouvons interagir à travers des communication personalisés avec nos futurs clients, et également les recibler si ils ne terminent pas le processus d'achat. Pour le routage des messages, faisons confiance à Adobe Campaign !
 
-- **Le cross sell**. Exploitons les capacités d'intelligence artificielle de la RTCDP pour calculer une audience qui sera la plus à même d'acheter un accessoire de sport extérieur au cours des 3 prochaines semaines en nous basant sur l'analyse des données comportementales de nos précèdents clients. Partageons ensuite cette audience à Snapchat et vers Adobe Campaign et peaufiner notre ciblage (règles de pression, gestion de la deliverabilité...) 
+- **Le cross sell**. Exploitons les capacités d'intelligence artificielle de la Adobe Experience Platform pour calculer une audience qui sera la plus à même d'acheter un accessoire de sport extérieur au cours des 3 prochaines semaines en nous basant sur l'analyse des données comportementales de nos précèdents clients. Partageons ensuite cette audience à Snapchat et vers Adobe Campaign et peaufiner notre ciblage (règles de pression, gestion de la deliverabilité...) 
 
 
 ## Objectifs d'apprentissages
-- Visualiser le profil temps réel dans RTCDP
-- Naviguer dans le graph d'identité  
+- Visualiser le profil temps réel et le graph d'identité dans Adobe Experience Platform
 - Configurer un parcours client avec un message personalisé 
-- Créer un segment utilisant les scores calculés par les services intelligents de RTCDP
+- Créer un segment utilisant les scores calculés par les services intelligents de Adobe Experience Platform
 - Activer ce segment vers Adobe Campaign et les réseaux sociaux
 
 
 ## Prérequis
 - Un navigateur web avec les onglets suivants ouverts en mode incognito, ceci afin de ne pas mélanger l'identifiant de connexion Adobe utilisé pour le lab avec celui de votre entreprise. 
- * Accès à [RTCDP](https://experience.adobe.com/#/@demosystem4/sname:emea-france-sc/platform/home) - Si lors de la connexion on vous demande un numéro de téléphone, veuillez clicker sur _Not Now_.
+ * Accès à [Adobe Experience Platform](https://experience.adobe.com/#/@demosystem4/sname:emea-france-sc/platform/home) - Si lors de la connexion on vous demande un numéro de téléphone, veuillez clicker sur _Not Now_.
  * Accès au [site web de demo](https://builder.adobedemo.com/web/delaland-04QF/home) - Si l'on vous demande de vous logger, utilisez les identifiants que l'onn vous a remis.
  * Accès à la [webmail de demo](https://campaignfr.adobedemo.com/webmail) - Utiliser le login et mot de passe fourni.
 
@@ -44,7 +43,7 @@ Au cours de ce lab, nous allons utiliser une marque fictive d'équipement sporti
 
 ## Exercices
 
-[Acquisition](./ca-lab1-acquisition.md): Naviguer sur le site internet de demo et générer des données pour ensuite les visualiser dans RTCDP
+[Acquisition](./ca-lab1-acquisition.md): Naviguer sur le site internet de demo et générer des données pour ensuite les visualiser dans Adobe Experience Platform.
 
 [Conversion](./ca-lab1-conversion.md): Configurer le message personalisé lors de l'abandon d'un panier sur le site e-commerce.
 
