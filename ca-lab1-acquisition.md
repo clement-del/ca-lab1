@@ -54,7 +54,7 @@ Quelques secondes plus tard, si vous rafraichissez le panel Real Time Customer P
 
 ---
 
-## Visualisation du profil dans RTCDP
+## Visualisation du profil dans Adobe Experience Platform
 
 Toujours, dans le panel Real Time Customer Profile, cliquez sur _Utilities_ et _View Profile in AEP_
 
