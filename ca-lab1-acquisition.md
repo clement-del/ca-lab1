@@ -6,7 +6,7 @@ Acquisition de nouvelles données clients
 ========================================
 
 
-Ouvrez un nouvel onglet de votre navigateur sur le site web de demo Luma: https://builder.adobedemo.com/web/delaland-04QF. 
+Ouvrez un nouvel onglet **incognito** de votre navigateur sur le site web de demo Luma: https://builder.adobedemo.com/web/delaland-04QF. 
 Utiliser votre identifiant de connexion (exemple cdpbootcamp00@email.com) ainsi que le mot de passe fourni.
 
 
