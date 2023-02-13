@@ -6,7 +6,8 @@ Personaliser le parcours de conversion et la relance sur panier abandonné
 =========================================================================
 
 
-Nous allons maintenant personaliser le parcours de conversion via le moteur d'experience client de la RTCDP. On l'appelle Profile Orchestration (anciennement Journey Orchestration). Dans notre interface de demo il se nomme Journey Optimizer. 
+Nous allons maintenant personaliser le parcours de conversion via le moteur d'experience client d'AEP qui s'appelle Profile Orchestration.
+Vous pouvez parfois entendre le terme Journey Orchestration, qui est son ancienne appellation. Notre interface de demo embarque le moteur d'orchestration dans un service d'AEP qui lui se nomme Journey Optimizer. 
 
 L'objectif de notre parcours client est double : 
 
@@ -23,13 +24,13 @@ Cliquez sur les 9 points en haut à droite de l'interface et sur le lien _Journe
 ![image](https://user-images.githubusercontent.com/40355195/216600072-bdbc3a9e-e702-4d77-832f-5f2c07de1f3c.png)
 
 
-Vous êtes maintenant dans le moteur d'orchestration de la RTCDP. 
+Vous êtes maintenant dans le moteur d'orchestration d'AEP. 
 Nous pouvons accéder au parcours directement depuis la page d'accueil ou alors en cliquant sur le lien _Parcours_ situé dans le menu de gauche.
 
 ---
 
 ## Le canevas de Parcours
-Le canevas de parcours client est le point central de création d'expérience client en temps réel. L'interface vous permet de drag & drop 3 types d'activités : 
+Le canevas de parcours client est le point central de création d'expérience client en temps réel. L'interface vous permet de glisser & déposer 3 types d'activités : 
 - des évènements: Ce sont les actions utilisateurs (ou générées par un système tiers) qui arrivent en temps réel dans la CDP, et sur lesquels vous souhaitez interagir. 
 - des activités d'orchestrations:  utile pour filter et temporiser les clients qui entrent dans votre parcours.
 - des actions: nécessaires pour comuniquer avec vos clients et votre écosystème d'entreprise. 
