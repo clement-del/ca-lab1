@@ -85,6 +85,6 @@ Connectez vous à la webmail de demo avec les identifiants transmis.
 ![image](https://user-images.githubusercontent.com/40355195/216592663-965dbd72-841a-4683-97a7-12988e7075c1.png)
 
 
-Bravo ! Vous avez complété le premier chapitre du lab :+1: :sparkles: , rendez-vous sur à la [prochaine étape](ca-lab1-conversion.md) ou retournez à [l'accueil](README.md)
+Bravo ! Vous avez complété le premier chapitre du 👍 ✨, rendez-vous sur à la [prochaine étape](ca-lab1-conversion.md) ou retournez à [l'accueil](README.md)
 
 
