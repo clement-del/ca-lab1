@@ -110,7 +110,7 @@ Partagez vos audiences est facilement réalisable en quelques clics vers toutes 
 
 --- 
 
-Bravo ! Vous avez terminé le lab :+1: :sparkles: :tada: :rocket: :metal: Ensemble nous avons pu  : 
+Bravo ! Vous avez terminé le lab 👍 ✨ 🎉 🚀 🤘 Ensemble nous avons pu  : 
 - Améliorer notre connaissance client en collectant  de la donnée visiteur sur notre site web
 - Batir une fiche client avec des données comportementales et des données personnelles. 
 - Améliorer le revenu en reciblant les abandonnistes au travers de parcours client personnalisés.
