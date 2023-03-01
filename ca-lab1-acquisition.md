@@ -10,7 +10,7 @@ Acquisition de nouvelles données clients
 ========================================
 
 
-Dans  le premier onglet de votre navigateur ouvert en mode **incognito (parfois apellé navigation privée)** ,  copiez l'adresse du site web de demo Luma: https://builder.adobedemo.com/web/delaland-04QF. 
+Dans  le premier onglet de votre navigateur ouvert en mode **incognito (parfois apellé navigation privée)** ,  copiez l'adresse du site web de demo Luma: https://dsn.adobe.com/web/delaland-04QF. 
 
 Utiliser votre identifiant de connexion ainsi que le mot de passe fourni.
 
