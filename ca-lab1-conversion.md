@@ -72,7 +72,10 @@ en haut à droite de l'interface. cliquez sur le bouton _Checkout_ puis _Proceed
 - Allez dans la <a href="https://campaignfr.adobedemo.com/webmail" target="_blank">webmail</a> et cliquer sur le lien dans le nouvel email reçu, celui ci vous ramène au panier ou vous pouvez ainsi finaliser l'achat en ligne. 
 
 <div align="center">
+<br />
     <img src="https://sv-ac-demos.com/shared/delaland/dsn/testConversionBootcamp.gif" />
+    <br />
+    <br />
 </div>
 
 Bravo ! Vous avez complété le deuxième chapitre du lab 👍 ✨ 🎉, rendez-vous sur à la [prochaine étape](ca-lab1-cross-sell.md) ou retournez à [l'accueil](Readme.md)
