@@ -39,8 +39,7 @@ Le canevas de parcours client est le point central de création d'expérience cl
 - des activités d'orchestrations:  utile pour filter et temporiser les clients qui entrent dans votre parcours.
 - des actions: nécessaires pour comuniquer avec vos clients et votre écosystème d'entreprise. 
 
-
-![image](https://user-images.githubusercontent.com/40355195/216953101-53853c4b-a710-45e6-826d-c8351ccbe258.png)
+![image](https://user-images.githubusercontent.com/40355195/223131545-85f14a24-185b-49d0-b1b7-9ca2ddebfa77.png)
 
 
 Le parcours a été prédéfini pour ce lab. L'évènement entrant s'active automatiquement lorsqu'un utilisateur du site Luma clique sur le bouton _Proceed_. Cet évènement contient un ensemble de donnée telle que le contenu du panier et les identifiants clients.
