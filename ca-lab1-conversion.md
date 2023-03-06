@@ -60,7 +60,7 @@ Afin de réengager nos clients qui n'ont pas terminé le process d'achat, nous a
 - Dans le champ _Name_, cliquer sur le crayon puis taper _first_ pour filtrer les attributs et sélectionner le premier attribut _firstName_ puis cliquez sur _OK_
 - Reliez l'event _LumaPurchaseEvent1_ à la transition de l'activité _CampaignCartAbandonment_
 
-![Conversion01](https://user-images.githubusercontent.com/40355195/216963232-a9fcb13a-65bf-4fd6-b9d6-973322b0987a.gif)
+![cartAbandonment2](https://user-images.githubusercontent.com/40355195/223142393-a7c526f5-41dd-4c1d-80b5-8b3988bd67e2.gif)
 
 --- 
 
