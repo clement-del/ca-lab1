@@ -71,8 +71,8 @@ en haut à droite de l'interface. cliquez sur le bouton _Checkout_ puis _Proceed
 - Retournez dans Profile Orchestration et visualisez l'avance de votre utilisateur dans le parcours client. Au bout d'une période d'inactivité donné (configurée à 10 secondes dans ce lab), l'utilisateur est considéré comme ayant abandonné le process d'achat et l'email que vous avez configuré au préalable est envoyé avec un lien pour reprendre le panier. 
 - Allez dans la <a href="https://campaignfr.adobedemo.com/webmail" target="_blank">webmail</a> et cliquer sur le lien dans le nouvel email reçu, celui ci vous ramène au panier ou vous pouvez ainsi finaliser l'achat en ligne. 
 
-![rushConversion02](https://user-images.githubusercontent.com/40355195/217293720-50b1f970-028f-40f1-939a-18b5ed9dde4c.gif)
-
-
+<div align="center">
+    <img src="https://sv-ac-demos.com/shared/delaland/dsn/testConversionBootcamp.gif" />
+</div>
 
 Bravo ! Vous avez complété le deuxième chapitre du lab 👍 ✨ 🎉, rendez-vous sur à la [prochaine étape](ca-lab1-cross-sell.md) ou retournez à [l'accueil](Readme.md)
