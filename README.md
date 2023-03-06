@@ -7,7 +7,9 @@
 <br /><br />
 <h1 align="center">Lien vers le lab: https://bit.ly/3YqDIJX</h1>
 <br /><br />
-</div>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/40355195/223067996-4e938f6e-5dbf-4c2f-9e61-3e8aa1831fa5.png" />
+</p>
 
 
 
@@ -20,7 +22,7 @@ Adobe Campaign s'utilise conjointement avec Adobe Experience Platform (AEP) pour
 - Un  orchestrateur de parcours client pour réagir en temps réel à des évènements générés par vos utilisateurs, et déterminer le meilleur itinéraire pour vos contacts. 
 - Des modèles d'intelligence artificielle pour scorer vos contacts et déterminer leur propension à acheter un produit, ou leur propension à quitter les services de votre marque pour la concurrence. 
 - Un vaste catalogue de destination pour activer vos audiences sur les canaux de votre choix: réseaux sociaux, email marketing, search & display, site web, CRM etc..
-- Appliquer des règles de gouvernance de la donnée et vous assurer que les données de vos utilisateurs soit uniquement utilisées à bon escient, et éviter tout risque de partage malencontreux vers un tiers, ou une utilisateur de la donnée client qui n'a pas été consentie par votre contact. 
+- Appliquer des règles de gouvernance de la donnée et vous assurer que les données de vos utilisateurs soient uniquement utilisées à bon escient, et éviter tout risque de partage malencontreux vers un tiers, ou une utilisation de la donnée client qui n'a pas été consentie par votre contact. 
 
 
 ---
