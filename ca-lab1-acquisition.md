@@ -10,7 +10,8 @@ Acquisition de nouvelles données clients
 ========================================
 
 
-Dans  le premier onglet de votre navigateur ouvert en mode **incognito (parfois apellé navigation privée)** ,  copiez l'adresse du site web de demo Luma: [https://dsn.adobe.com/web/delaland-04QF](https://dsn.adobe.com/web/delaland-04QF). 
+Dans  le premier onglet de votre navigateur ouvert en mode **incognito (parfois apellé navigation privée)** ,  copiez l'adresse du site web de demo Luma: 
+<a href="https://dsn.adobe.com/web/delaland-04QF" target="_blank">https://dsn.adobe.com/web/delaland-04QF</a>
 
 Utiliser votre identifiant de connexion ainsi que le mot de passe fourni.
 
@@ -84,7 +85,7 @@ Cliquer sur afficher le graph d'identités pour visualiser les identités collec
 ## Réception de l'email dans la webmail
 
 Connectez vous à la webmail de demo avec les identifiants transmis.
-
+<a href="#" target="_blank">#</a>
 
 ![image](https://user-images.githubusercontent.com/40355195/216592663-965dbd72-841a-4683-97a7-12988e7075c1.png)
 
