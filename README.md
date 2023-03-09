@@ -39,7 +39,7 @@ Au cours de ce lab, nous allons utiliser une marque fictive d'équipement sporti
 ## Objectifs d'apprentissages
 - Visualiser le profil temps réel et le graph d'identité dans Adobe Experience Platform
 - Configurer un parcours client avec un message personalisé 
-- Créer un segment utilisant les scores calculés par les services intelligents de Adobe Experience Platform
+- Créer un segment utilisant les scores calculéss par les services intelligents de Adobe Experience Platform
 - Activer ce segment vers Adobe Campaign et les réseaux sociaux
 
 
@@ -55,7 +55,7 @@ Au cours de ce lab, nous allons utiliser une marque fictive d'équipement sporti
 
 [Conversion](./ca-lab1-conversion.md): Configurer le message personalisé lors de l'abandon d'un panier sur le site e-commerce.
 
-[Cross Sell](./ca-lab1-cross-sell.md): Créer une audience enrichie et l'activer au travers le catalogue de destinations.
+[Cross Sell](./ca-lab1-cross-sell.md): Créer une audience enrichie et l'activer via le catalogue des destinations.
 
 
 
