@@ -9,7 +9,7 @@
 Créer une audience enrichie et l'activer via le catalogue de destinations
 =========================================================================
 
-Exploitons les capacités d'intelligence artificielle d'Adobe Experience Platform pour créer une audience qui sera la plus à même d'acheter un accessoire de sport d'extérieur au cours des 3 prochaines semaines. Nous allons nous baser sur l'analyse des données comportementales de nos précèdents acheteurs. 
+Exploitons les capacités d'intelligence artificielle d'Adobe Experience Platform pour créer une audience qui sera la plus à même d'acheter un équipement sportif de plein air au cours des 3 prochaines semaines. Nous allons nous baser sur l'analyse des données comportementales de nos précèdents acheteurs. 
 Partageons ensuite cette audience à Snapchat et vers Adobe Campaign pour peaufiner notre ciblage avec les fonctionnalités présentes dans notre outil de marketing automation (règles de pression, gestion de la deliverabilité...).
 
 
@@ -20,7 +20,7 @@ AEP met à disposition des services intelligents préconfigurés pour les utilis
 ![image](https://user-images.githubusercontent.com/40355195/217492668-877411a8-c47e-45c6-bdb2-62c8a6aaa3ea.png)
 
 Sur cet écran vous pouvez créér votre propre instance du modèle d'intelligence artificielle. 
-La propension à la conversion doit être utilisée lors de la prévision de résultats commerciaux favorables, ce qui implique qu'un score élevé est bon et qu'un score bas est mauvais. Vous pouvez vous en servir pour prédire si les utilisateurs achèteront un produit, souscrirons à un abonnement ou soumettront un formulaire d'inscription.
+La propension à la conversion doit être utilisée pour de la prédiction de vente, ce qui implique qu'un score élevé est positif et qu'un score faible est peu intéressant. Vous pouvez vous en servir pour prédire si les utilisateurs achèteront un produit, souscrirons à un abonnement ou soumettront un formulaire d'inscription.
 
 Il est également possible de configurer le modèle pour la prévision de l'attrition (churn) comme par exemple l'annulation d'un abonnement ou le non retour sur votre site Web. 
 
@@ -28,7 +28,7 @@ Pour ce lab, l'instance a déjà été prédéfinie pour calculer un score de pr
 
 ![image](https://user-images.githubusercontent.com/40355195/217497970-15da535b-f9a2-4339-9985-6ee232b27e74.png)
 
-Le dahboard vous permet d'analyser la répartition de la population analysée en 3 clusters: 
+Le dahboard vous permet d'analyser la répartition de la population en 3 clusters: 
 - Rouge: ceux ayant une faible propension à l'achat (score < 24)
 - Jaune: ceux ayant une moyenne propension à l'achat (score entre 25 et 74)
 - Vert: ceux ayant une forte propension à l'achat (score > 75)
@@ -72,7 +72,7 @@ Nous allons maintenant pouvoir activer le segment à travers le catalogue des de
 ## Activer votre segment vers Adobe Campaign
 
 - Cliquer sur le bouton _Activer vers la destination_ et sélectionnez _Adobe Campaign_, cliquez sur Suivant
-- Cliquer sur _Créer un planning_, laissez les options par défaut sauf pour la date de fin qui doit être marquée pour  le 17/02. Cliquez sur _Créer_ puis sur _Suivant_
+- Cliquer sur _Créer un planning_, laissez les options par défaut sauf pour la date de fin qui doit être marquée pour  le 11/03. Cliquez sur _Créer_ puis sur _Suivant_
 - Nous allons transférer vers Adobe Campaign les champs suivants : 
   * xdm: person.name.firstName
   * xdm: person.name.lastName
@@ -92,12 +92,12 @@ Une fois la destination activé le segment va transiter sous forme de fichier ve
 
 ## Activer votre segment vers Snapchat
 
-Nous allons maintenant activer notre audience à travers Snapchat en temps réel. Dès qu'un utilisateur qualifiera pour notre segment, son email hashé sera envoyé en  streaming vers le réseau social pour améliorer nos capacité de ciblage multicanales.
+Nous allons maintenant activer notre audience à travers Snapchat en temps réel. Dès qu'un utilisateur qualifiera pour notre segment, son email hashé sera envoyé en  streaming vers le réseau social pour améliorer nos capacité de ciblage multicanale.
 
 - Retournez sur votre segment en cliquant sur l'onglet _Parcourir_ du menu _Segment_.
 - Cliquer sur le bouton _Activer vers la destination_ et sélectionnez _Snapchat - test, cliquez sur Suivant
 - Cochez la case _Appliquez la transformation_ à côté du champ cible Identity:emailAdress
-- Nous allons transférer vers Snapchat une audience composé d'un identifiant client. Ce peut être un numéro de téléphone, un identifiant publicitiare Google ou Apple ou bien un email. Dans tous les cas Snapchat, comme la plupart des réseaux sociaux accepte uniquement les données encryptées. Nous allons utlisé un email encrypté comme identifiant de client à partager à Snapchat. Sélectionner le champ suivant
+- Nous allons transférer vers Snapchat une audience composé d'un identifiant client. Ce peut être un numéro de téléphone, un identifiant publicitiare Google ou Apple ou bien un email. Dans tous les cas Snapchat, comme la plupart des réseaux sociaux, accepte uniquement les données encryptées. Nous allons utliser un email encrypté comme identifiant de client à partager à Snapchat. Sélectionner le champ suivant
   * xdm: personalEmail.address - Cochez la case _Appliquez la transformation_ pour envoyer le hash de l'email
 
 Cliquez sur _Suivant_, puis sur _Terminer_ pour valider la destination. 
@@ -111,7 +111,7 @@ L'audience est partagé en temps réel vers Snapchat, et est visible dans l'inte
 
 
 
-Notre segment enrichie à l'intelligence artificelle **Propension ++ Sport Ext** a été partagé en quelques clics à l'outil de Marketing Automation ainsi qu'à un réseau social ! 
+Notre segment enrichi à l'intelligence artificelle **Propension ++ Sport Ext** a été partagé en quelques clics à l'outil de Marketing Automation ainsi qu'à un réseau social ! 
 Partagez vos audiences est facilement réalisable en quelques clics vers toutes les destnations disponible dans le catalogue. Ces plateformes de destination incluent des solutions Adobe, des plateformes publicitaires, d’enquête et de marketing par e-mail, des extensions Experience Platform, et bien plus encore.
 
 --- 
@@ -120,7 +120,7 @@ Bravo ! Vous avez terminé le lab 👍 ✨ 🎉 🚀 🤘 Ensemble nous avons pu
 - Améliorer notre connaissance client en collectant  de la donnée visiteur sur notre site web
 - Batir une fiche client avec des données comportementales et des données personnelles. 
 - Améliorer le revenu en reciblant les abandonnistes au travers de parcours client personnalisés.
-- Faire du cross-sell en partageant des audiences boosté à l'intelligennce artificielle vers les outils de Marketing Automation et les réseaux sociaux
+- Faire du cross-sell en partageant des audiences boostées à l'intelligennce artificielle vers les outils de Marketing Automation et les réseaux sociaux
 
 
 Tout ça en 1h30 👏 👏 👏 Ca mérite bien un cadeau pour tous ces efforts 😛 
