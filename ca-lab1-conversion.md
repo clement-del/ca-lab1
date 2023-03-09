@@ -35,9 +35,9 @@ Nous pouvons accéder au parcours directement depuis la page d'accueil ou alors 
 
 ## Le canevas de Parcours
 Le canevas de parcours client est le point central de création d'expérience client en temps réel. L'interface vous permet de glisser & déposer 3 types d'activités : 
-- des évènements: Ce sont les actions utilisateurs (ou générées par un système tiers) qui arrivent en temps réel dans la CDP, et sur lesquels vous souhaitez interagir. 
-- des activités d'orchestrations:  utile pour filter et temporiser les clients qui entrent dans votre parcours.
-- des actions: nécessaires pour comuniquer avec vos clients et votre écosystème d'entreprise. 
+- des évènements: Ce sont les actions utilisateurs (ou générées par un système tiers) qui arrivent en temps réel dans la plateforme, et sur lesquelles vous souhaitez interagir. 
+- des activités d'orchestrations:  utile pour filtrer et temporiser les clients qui entrent dans votre parcours.
+- des actions: nécessaires pour communiquer avec vos clients et votre écosystème d'entreprise. 
 
 ![image](https://user-images.githubusercontent.com/40355195/223131545-85f14a24-185b-49d0-b1b7-9ca2ddebfa77.png)
 
@@ -46,7 +46,7 @@ Le parcours a été prédéfini pour ce lab. L'évènement entrant s'active auto
 Un deuxième évènement intitulé _LumaPurchaseEvent_ est lui déclenché lorsque le client complète l'acte d'achat. Lorsqu'il est activé, on invoque Adobe Campaign, via l'action _OrderConfirmation_ pour envoyer le récapitulatif de la commande par email. 
 
 
-On va également pouvoir tirer profit de la non réception d'un évènement pour recibler nos contact qui sont entrés dans le parcours avec une communication appropriée. En effet le chemin inférieur de l'évènement _LumaPurchaseEvent_ se déclenchera automatiquement au bout d'une période d'inactivité donnée (configurée ici à 20 secondes pour ce lab), permettant de router nos clients vers un chemin alternatif. 
+On va également pouvoir tirer profit de la non réception d'un évènement pour recibler nos contacts qui sont entrés dans le parcours avec une communication appropriée. En effet le chemin inférieur de l'évènement _LumaPurchaseEvent_ se déclenchera automatiquement au bout d'une période d'inactivité donnée (configurée ici à 10 secondes pour ce lab), permettant de router nos clients vers un chemin alternatif. 
 
 ---
 
@@ -66,9 +66,9 @@ Afin de réengager nos clients qui n'ont pas terminé le process d'achat, nous a
 
 ## Tester votre parcours
 Il est maintenant temps de tester votre parcours ! 
-- Dans le canevas activez le _test mode_, retournez sur le site web et ajoutez un article dans votre panier et cliquez sur le bout _Shopping Cart_
+- Dans le canevas activez le _test mode_, retournez sur le site web et ajoutez un article dans votre panier et cliquez sur le bouton _Shopping Cart_
 en haut à droite de l'interface. cliquez sur le bouton _Checkout_ puis _Proceed_. 
-- Retournez dans Profile Orchestration et visualisez l'avance de votre utilisateur dans le parcours client. Au bout d'une période d'inactivité donné (configurée à 10 secondes dans ce lab), l'utilisateur est considéré comme ayant abandonné le process d'achat et l'email que vous avez configuré au préalable est envoyé avec un lien pour reprendre le panier. 
+- Retournez dans Profile Orchestration et visualisez l'avance de votre utilisateur dans le parcours client. Au bout d'une période d'inactivité donné, l'utilisateur est considéré comme ayant abandonné le process d'achat et l'email que vous avez configuré au préalable est envoyé avec un lien pour revalider son panier. 
 - Allez dans la <a href="https://campaignfr.adobedemo.com/webmail" target="_blank">webmail</a> et cliquer sur le lien dans le nouvel email reçu, celui ci vous ramène au panier ou vous pouvez ainsi finaliser l'achat en ligne. 
 
 <div align="center">
