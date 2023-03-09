@@ -123,7 +123,7 @@ Bravo ! Vous avez terminé le lab 👍 ✨ 🎉 🚀 🤘 Ensemble nous avons pu
 - Faire du cross-sell en partageant des audiences boosté à l'intelligennce artificielle vers les outils de Marketing Automation et les réseaux sociaux
 
 
-Tout ça en 1h30 👏 👏 👏 Ca mérite bien un petit goodie pour tous ces efforts 😛 
+Tout ça en 1h30 👏 👏 👏 Ca mérite bien un cadeau pour tous ces efforts 😛 
 
 
 
