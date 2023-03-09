@@ -84,8 +84,9 @@ Cliquer sur afficher le graph d'identités pour visualiser les identités collec
 
 ## Réception de l'email dans la webmail
 
-Connectez vous à la webmail de demo avec les identifiants transmis.
-<a href="#" target="_blank">#</a>
+Connectez vous à la webmail de demo (<a href="https://campaignfr.adobedemo.com/webmail/" target="_blank">https://campaignfr.adobedemo.com/webmail/</a>)  en utilisant le username **demo** ainsi que le mot de passe qui vous a été transmis.
+Ouvrez le message de confirmation d'inscription qui vous a été envoyé (le sujet est personalisé avec le prénom saisie dans le formulaire d'inscription)
+
 
 ![image](https://user-images.githubusercontent.com/40355195/216592663-965dbd72-841a-4683-97a7-12988e7075c1.png)
 
